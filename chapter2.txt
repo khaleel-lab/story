@@ -1,0 +1,1 @@
+The version control is used to commit the changes to go back to previous versions
